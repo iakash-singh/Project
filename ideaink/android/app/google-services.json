@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043023315503",
+    "project_id": "flutter-ideaink-project",
+    "storage_bucket": "flutter-ideaink-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043023315503:android:ab1815f10725b133207cda",
+        "android_client_info": {
+          "package_name": "com.indiagrow.idea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtVpM2vHVqoxDI2LJTeXBeFHRww_zKsd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
